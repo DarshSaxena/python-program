@@ -10,6 +10,7 @@ darsh.name="DARSH"
 print(darsh.name)
 getinfo(darsh)
 '''
+'''
 import math
 
 choice=input("enter your choice c for square,cc for cube and ccc for square root:")
@@ -32,3 +33,4 @@ elif(choice=="ccc"):
     print(darsh.squareroot(a))
 else:
     print("invalid choice")
+'''
