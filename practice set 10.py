@@ -60,6 +60,7 @@ elif(choice=="ccc"):
 else:
     print("invalid choice")
 '''
+'''
 wish=input("if you want to book ticket press 1"+" "+"if you want any info press 2 :")
 class train:
     print("welcome to Darsh Railways")
@@ -105,6 +106,13 @@ if(wish=="1"):
     print(darsh.bookticket())
 else:
  print(darsh.getinfo())
-
-                    
+'''
+class something:
+    print("kuch nhi yaar chal rha h")
+    def someone(seloffeb):
+        print("no one")
+        return "ooi maa"
+obj=something()
+obj.someone()
+               
         
